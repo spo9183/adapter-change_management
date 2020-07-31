@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/spo9183/adapter-change_management#readme",
   "dependencies": {
+    "@types/request": "^2.48.5",
     "request": "^2.88.2"
   }
 }
